@@ -1,0 +1,1 @@
+# Projeto Integrador 3 - Gestão de E-Lixo.
