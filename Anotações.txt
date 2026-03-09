@@ -1,0 +1,8 @@
+  Para lembrar de como estava a linha scripts do arquivo package.json
+  Tirei a parte que está comentada e deixei apenas "start" e "dev"
+
+  "scripts": {
+    //"test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
